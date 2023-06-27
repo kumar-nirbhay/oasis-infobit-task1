@@ -1,2 +1,2 @@
-# oasis-infobit-task1
+# oasis-infobyte-task1
 Website landing Page
